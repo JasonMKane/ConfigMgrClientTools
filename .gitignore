@@ -1,0 +1,10 @@
+*.exe
+*.zip
+thumbs.db
+/Transcripts/*
+*.log
+*.dll
+*.csv
+*.psbuild
+*.xls
+*.xlsx
