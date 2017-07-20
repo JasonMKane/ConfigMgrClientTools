@@ -5,6 +5,6 @@ Provided as is, with no warranty or support.
 ##Functions
 Resolve-TaskSequenceState
 ```ps
-ps>Resolve-TaskSequenceState -Computername <computername>
-ps>Resolve-TaskSequenceState -LogPath <path to file or Dir of files>
+ps>Resolve-TaskSequenceState -Computername [computername]
+ps>Resolve-TaskSequenceState -LogPath [path to file or Dir]
 ```
